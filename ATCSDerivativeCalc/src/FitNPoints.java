@@ -1,5 +1,5 @@
 /**
- * Write good documentation regarding how everything's going to work.
+ * Testing module for ThreePointDerivative
  * @author Manan
  */
 
