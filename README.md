@@ -1,2 +1,2 @@
 # numericalmethods
-College-level Numerical Methods course taught as an Advanced Topics class in Computer Science at The Harker School
+College-level numerical methods course taught as an advanced topics class at the Harker School
